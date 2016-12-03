@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/*****************
+  Liste des couleurs
+*****************/
+.test {
+  display: none;
+  color: #8AEB22; }
+
+/*****************
+  Code pen import├®
+*****************/
+canvas {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  cursor: pointer; }
+
+/*# sourceMappingURL=style.css.map */
