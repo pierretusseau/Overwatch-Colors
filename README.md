@@ -23,3 +23,13 @@
 - winston	: #4C505B // rgb(76, 80, 91)
 - zarya 		: #F470A7 // rgb(244, 112, 167)
 - zenyatta	: #C69B00 // rgb(198, 155, 0)
+
+-----
+
+# Sources
+
+- [anime.js](http://anime-js.com/)
+- [This code pen](http://codepen.io/alexzaworski/pen/mEkvAG)
+- [For the flex grid 1](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [For the flex grid 2](https://css-tricks.com/filling-space-last-row-flexbox/)
+- [Overwatch colors my account lol](https://playoverwatch.com/en-gb/career/pc/eu/Kobaru-2739)
